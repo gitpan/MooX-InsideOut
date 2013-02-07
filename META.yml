@@ -18,11 +18,11 @@ no_index:
     - t
     - inc
 requires:
-  Hash::Util::FieldHash::Compat: 0
-  Moo: 0
+  Hash::Util::FieldHash::Compat: 0.03
+  Moo: 1.000007
   perl: 5.8
-  strictures: 0
+  strictures: 1
 resources:
   homepage: http://github.com/haarg/MooX-InsideOut
   repository: git://github.com/haarg/MooX-InsideOut.git
-version: 0.001000
+version: 0.001001
