@@ -4,7 +4,7 @@
       "haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.130880",
    "license" : [
       "perl_5"
    ],
@@ -34,7 +34,7 @@
          "requires" : {
             "Hash::Util::FieldHash::Compat" : "0.03",
             "Moo" : "1.000007",
-            "perl" : "5.8",
+            "perl" : "5.008001",
             "strictures" : "1"
          }
       }
@@ -46,5 +46,5 @@
          "url" : "git://github.com/haarg/MooX-InsideOut.git"
       }
    },
-   "version" : "0.001001"
+   "version" : "0.001002"
 }
